@@ -91,14 +91,44 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 <br>
 
-#### **Task 3**
+#### **Task 3** &mdash; Exiting Vim
+
+|#|Question|Answer|
+|:---|:---|:---|
+|1.|**How do we write the file, but don't exit?**|_:w_|
+|2.|**How do we write the file, but don't exit- as root?**|_:w !sudo tee %_|
+|3.|**How do we write and quit?**|_:wq_|
+|4.|**How do we quit?**|_:q_|
+|5.|**How do we force quit?**|_:q!_|
+|6.|**How do we save and quit, for all active tabs?**|_:wqa_|
 
 <br>
 
-#### **Task 4**
+#### **Task 4** &mdash; Copy and Paste
+
+|#|Question|Answer|
+|:---|:---|:---|
+|1.|**How do we copy a line?**|__|
+|2.|**how do we copy 2 lines?**|__|
+|3.|**How do we copy to the end of the line?**|__|
+|4.|**How do we paste the clipboard contents after the cursor?**|__|
+|5.|**How do we paste the clipboard contents before the cursor?**|__|
+|6.|**How do we cut a line?**|__|
+|7.|**How do we cut two lines?**|__|
+|8.|**How do we cut to the end of the line?**|__|
+|9.|**How do we cut a character?**|__|
 
 <br>
 
-#### **Task 5**
+#### **Task 5** &mdash; Search and Replace
+
+|#|Question|Answer|
+|:---|:---|:---|
+|1.|**How do we search forwards for a pattern (use "pattern" for your answer)**|__|
+|2.|**How do we search backwards for a pattern (use "pattern" for your answer)**|__|
+|3.|**How do we repeat this search in the same direction?**|__|
+|4.|**How do we repeat this search in the opposite direction?**|__|
+|5.|**How do we search for "old" and replace it with "new"**|__|
+|6.|**How do we use "grep" to search for a pattern in multiple files?**|__|
 
 <hr>
