@@ -71,6 +71,15 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 #### **Task 2** &mdash; _Basic Text Editing_
 
+<div align="center">
+    <span>&uarr; <br> <strong>k</strong></span><br>
+    <span>&larr; <strong>h</strong></span>               
+    <span><strong>l</strong> &rarr;</span><br>
+    <span><strong>j</strong> <br> &darr; </span>
+</div>
+
+<br>
+
 |#|Question|Answer|
 |:---|:---|:---|
 |1.|**How do we enter "INSERT" mode?**|_i_|
