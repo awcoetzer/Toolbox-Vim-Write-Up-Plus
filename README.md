@@ -4,7 +4,7 @@
     </h2>
     <br>
     <p>
-        Welcome to my THM write-up for Vim, on this README you will find links to multiple documents to help you learn Vim. Alternatively you can run the <strong>vimtutor</strong> command within your terminal and learn by doing.
+        Welcome to my THM write-up for Vim, on this README you will find page links to each task and its questions. Alternatively you can run the <strong>vimtutor</strong> command within your terminal to learn vim interactively.
     </p>
 </div>
 
