@@ -72,51 +72,22 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 #### **Task 2 &mdash; Basic Text Editing**
 
-1. **How do we enter "INSERT" mode?**
-    - _i_
-2. **How do we start entering text into our new Vim document?**
-    - _typing_
-3. **How do we return to command mode?**
-    - _ESC_
-4. **How do we move the cursor left?**
-    - _h_
-5. **How do we move the cursor right?**
-    - _l_
-6. **How do we move the cursor up?**
-    - _k_
-7. **How do we move the cursor down?**
-    - _j_
-8. **How do we jump to the start of a word?**
-    - _w_
-9. **How do we jump to the end of a word?**
-    - _e_
-10. **How do we insert (before the cursor)**
-    - _i_
-11. **How do we insert (at the beginning of the line?)**
-    - _I_
-12. **How do we append (after the cursor)**
-    - _a_
-13. **How do we append (at the end of the line)**
-    - _A_
-14. **How do we make a new line under the current line?**
-    - _o_
-
-|Question|Answer|
-|:---|:---|
-|How do we enter "INSERT" mode?|i|
-|How do we start entering text into our new Vim document?||
-|How do we return to command mode?||
-|How do we move the cursor left?||
-|How do we move the cursor right?||
-|How do we move the cursor up?||
-|How do we move the cursor down?||
-|How do we jump to the start of a word?||
-|How do we jump to the end of a word?||
-|How do we insert (before the cursor)||
-|How do we insert (at the beginning of the line?)||
-|How do we append (after the cursor)||
-|How do we append (at the end of the line)||
-|How do we make a new line under the current line?||
+|#|Question|Answer|
+|:---|:---|:---|
+|1.|**How do we enter "INSERT" mode?**|_i_|
+|2.|How do we start entering text into our new Vim document?|Typing|
+|3.|How do we return to command mode?|ESC|
+|4.|How do we move the cursor left?||
+|5.|How do we move the cursor right?||
+|6.|How do we move the cursor up?||
+|7.|How do we move the cursor down?||
+|8.|How do we jump to the start of a word?||
+|9.|How do we jump to the end of a word?||
+|10.|How do we insert (before the cursor)||
+|11.|How do we insert (at the beginning of the line?)||
+|12.|How do we append (after the cursor)||
+|13.|How do we append (at the end of the line)||
+|14.|How do we make a new line under the current line?||
 
 <br>
 
