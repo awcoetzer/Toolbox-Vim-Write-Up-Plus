@@ -64,7 +64,7 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 
 - Installing vim using `winget` and the packages ID
-    -winget install --id vim.vim 
+    - winget install --id vim.vim 
 
 <br>
 
