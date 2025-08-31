@@ -56,7 +56,7 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 - **Search for vim using `winget`**
     - `winget search vim`
 
-> 💡**NOTE**: _After searching for Vim using winget, you should see a table like this with multiple entries, unlike my example below. 
+> 💡**NOTE**: _After searching for Vim using winget, you should see a table like this with multiple entries, unlike my example below.<br> 
 > Dont worry about the version number as that can change over time, the key take away is finding the Id of the package you looking for._
 >
 > |Name|Id|Version|Match|Source|
