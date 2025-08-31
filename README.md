@@ -8,6 +8,8 @@
     </p>
 </div>
 
+<br>
+
 ### Table of Contents
 
 <ul>
@@ -24,6 +26,8 @@
     </li>
 </ul>
 
+<br>
+<hr>
 
 ### THM Toolbox: Vim
 
