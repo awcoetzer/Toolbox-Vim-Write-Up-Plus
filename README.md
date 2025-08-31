@@ -22,13 +22,6 @@
             <li><a href="#task-5--search-and-replace">Task 5 &mdash; Search and Replace</a></li>
         </ul>
     </li>
-    <br>
-    <li>
-        <a href="#vimtutor-summaries">Vimtutor Summaries</a>
-        <ul>
-            <li><a href="#"></a></li>
-        </ul>
-    </li>
 </ul>
 
 
@@ -132,3 +125,7 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 |6.|**How do we use "grep" to search for a pattern in multiple files?**|_:vimgrep_|
 
 <hr>
+
+_If you wish to learn Vim interactively, run `vimtutor` in your terminal and it will open up an interactive document within Vim._
+
+Enjoy 👋
