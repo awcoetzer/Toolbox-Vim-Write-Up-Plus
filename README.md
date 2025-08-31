@@ -108,11 +108,10 @@ How do we insert (at the beginning of the line?)
 How do we append (after the cursor)
 > a
 
-How do we append (at the end of the line)
-> A
-
-How do we make a new line under the current line?
-> o
+> How do we append (at the end of the line)
+> - [x] A
+> How do we make a new line under the current line?
+> - [x] o
 
 <br>
 
