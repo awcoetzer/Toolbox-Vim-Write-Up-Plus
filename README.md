@@ -27,7 +27,7 @@
 
 ### THM Toolbox: Vim
 
-#### **Task 1** &mdash; Getting Started
+#### **Task 1** &mdash; _Getting Started_
 #### Checking if Vim is installed within **Linux**
 To see whether Vim is installed on your Linux Env, you can type `which vim` in your terminal and if its installed it will show you the directory of where its located on your system. 
 
@@ -58,12 +58,12 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 > |Vim|vim.vim|9.1.1696||winget|
 
 
-- **Installing vim using `winget` _using the package Id_**
+- **Installing vim using `winget` _with the use of the package Id_**
     - `winget install --id vim.vim` 
 
 <br>
 
-#### **Task 2 &mdash; Basic Text Editing**
+#### **Task 2** &mdash; _Basic Text Editing_
 
 |#|Question|Answer|
 |:---|:---|:---|
@@ -84,7 +84,7 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 <br>
 
-#### **Task 3** &mdash; Exiting Vim
+#### **Task 3** &mdash; _Exiting Vim_
 
 |#|Question|Answer|
 |:---|:---|:---|
@@ -97,7 +97,7 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 <br>
 
-#### **Task 4** &mdash; Copy and Paste
+#### **Task 4** &mdash; _Copy and Paste_
 
 |#|Question|Answer|
 |:---|:---|:---|
@@ -113,7 +113,7 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 <br>
 
-#### **Task 5** &mdash; Search and Replace
+#### **Task 5** &mdash; _Search and Replace_
 
 |#|Question|Answer|
 |:---|:---|:---|
