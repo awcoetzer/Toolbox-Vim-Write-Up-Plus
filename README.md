@@ -16,10 +16,10 @@
         <ul>
             <li>
                 <a href="#task-1--getting-started">Task 1 &mdash; Getting Started</a></li>
-            <li><a href="#task-2--">Task 2 &mdash;</a></li>
-            <li><a href="#task-3--">Task 3 &mdash;</a></li>
-            <li><a href="#task-4--">Task 4 &mdash;</a></li>
-            <li><a href="#task-5--">Task 5 &mdash;</a></li>
+            <li><a href="#task-2--basic-text-editing">Task 2 &mdash; Basic Text Editing</a></li>
+            <li><a href="#task-3--exiting-vim">Task 3 &mdash; Exiting Vim</a></li>
+            <li><a href="#task-4--copy-and-paste">Task 4 &mdash; Copy and Paste</a></li>
+            <li><a href="#task-5--search-and-replace">Task 5 &mdash; Search and Replace</a></li>
         </ul>
     </li>
     <br>
