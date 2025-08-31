@@ -126,6 +126,4 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 <hr>
 
-_If you wish to learn Vim interactively, run `vimtutor` in your terminal and it will open up an interactive document within Vim._
-
-Enjoy 👋
+> 💡 **NOTE**: _If you wish to learn Vim interactively, run `vimtutor` in your terminal and it will open up an interactive document within Vim._
