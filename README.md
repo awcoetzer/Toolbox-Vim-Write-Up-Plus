@@ -108,15 +108,15 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 |#|Question|Answer|
 |:---|:---|:---|
-|1.|**How do we copy a line?**|__|
-|2.|**how do we copy 2 lines?**|__|
-|3.|**How do we copy to the end of the line?**|__|
-|4.|**How do we paste the clipboard contents after the cursor?**|__|
-|5.|**How do we paste the clipboard contents before the cursor?**|__|
-|6.|**How do we cut a line?**|__|
-|7.|**How do we cut two lines?**|__|
-|8.|**How do we cut to the end of the line?**|__|
-|9.|**How do we cut a character?**|__|
+|1.|**How do we copy a line?**|_yy_|
+|2.|**how do we copy 2 lines?**|_2yy_|
+|3.|**How do we copy to the end of the line?**|_y$_|
+|4.|**How do we paste the clipboard contents after the cursor?**|_p_|
+|5.|**How do we paste the clipboard contents before the cursor?**|_P_|
+|6.|**How do we cut a line?**|_dd_|
+|7.|**How do we cut two lines?**|_2dd_|
+|8.|**How do we cut to the end of the line?**|_D_|
+|9.|**How do we cut a character?**|_x_|
 
 <br>
 
