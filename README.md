@@ -124,11 +124,11 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 |#|Question|Answer|
 |:---|:---|:---|
-|1.|**How do we search forwards for a pattern (use "pattern" for your answer)**|__|
-|2.|**How do we search backwards for a pattern (use "pattern" for your answer)**|__|
-|3.|**How do we repeat this search in the same direction?**|__|
-|4.|**How do we repeat this search in the opposite direction?**|__|
-|5.|**How do we search for "old" and replace it with "new"**|__|
-|6.|**How do we use "grep" to search for a pattern in multiple files?**|__|
+|1.|**How do we search forwards for a pattern (use "pattern" for your answer)**|_/pattern_|
+|2.|**How do we search backwards for a pattern (use "pattern" for your answer)**|_?pattern_|
+|3.|**How do we repeat this search in the same direction?**|_n_|
+|4.|**How do we repeat this search in the opposite direction?**|_N_|
+|5.|**How do we search for "old" and replace it with "new"**|_%s/old/new/g_|
+|6.|**How do we use "grep" to search for a pattern in multiple files?**|_:vimgrep_|
 
 <hr>
