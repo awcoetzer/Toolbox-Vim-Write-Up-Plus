@@ -14,7 +14,7 @@
     <li>
         <a href="#THM-Toolbox-Vim">THM Toolbox: Vim</a>
         <ul>
-            <li><a href="#task-1-getting-started">Task 1 &mdash; Getting Started</a></li>
+            <li><a href="#task-1--getting-started">Task 1 &mdash; Getting Started</a></li>
             <li><a href="#task-2">Task 2 &mdash;</a></li>
             <li><a href="#task-2">Task 3 &mdash;</a></li>
             <li><a href="#task-3">Task 4 &mdash;</a></li>
