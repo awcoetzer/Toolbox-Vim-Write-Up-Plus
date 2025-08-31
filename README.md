@@ -72,46 +72,45 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 
 #### **Task 2 &mdash; Basic Text Editing**
 
-**How do we enter "INSERT" mode?**
->> i
+1. **How do we enter "INSERT" mode?**
+    - _i_
+2. **How do we start entering text into our new Vim document?**
+    - _typing_
+3. **How do we return to command mode?**
+    - _ESC_
 
-**How do we start entering text into our new Vim document?**
-- [x] typing
+4. **How do we move the cursor left?**
+    - _h_
 
-**How do we return to command mode?**
- ESC
+5. **How do we move the cursor right?**
+    - _l_
 
-**How do we move the cursor left?**
- h
+6. **How do we move the cursor up?**
+    - _k_
 
-**How do we move the cursor right?**
- l
+7. **How do we move the cursor down?**
+    - _j_
 
-**How do we move the cursor up?**
- k
+8. **How do we jump to the start of a word?**
+    - _w_
 
-**How do we move the cursor down?**
- j
+9. **How do we jump to the end of a word?**
+    - _e_
 
-**How do we jump to the start of a word?**
- w
+10. **How do we insert (before the cursor)**
+    - _i_
 
-**How do we jump to the end of a word?**
- e
+11. **How do we insert (at the beginning of the line?)**
+    - _I_
 
-**How do we insert (before the cursor)**
- i
+12. **How do we append (after the cursor)**
+    - _a_
 
-**How do we insert (at the beginning of the line?)**
- I
+13. **How do we append (at the end of the line)**
+    - _A_
 
-**How do we append (after the cursor)**
- a
-
- **How do we append (at the end of the line)**
- - `A`
- **How do we make a new line under the current line?**
- - `o`
+14. **How do we make a new line under the current line?**
+    - _o_
 
 <br>
 
