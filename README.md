@@ -54,7 +54,7 @@ Alternatively, you could also just type `vim FILENAME` or `vim`, and if its inst
 You can install Vim by either downloading it [here](https://www.vim.org/download.php#pc "Link to download the Vim installer for Windows") or you can use Winget within your terminal or powershell. _winget is a windows packet manager_
 
 - Search for vim using `winget`
-    - winget search vim
+    - `winget search vim`
 
 > 💡**NOTE**: _You should see a table like:_
 >
@@ -63,8 +63,8 @@ You can install Vim by either downloading it [here](https://www.vim.org/download
 > |Vim|vim.vim|9.1.1696||winget|
 
 
-- Installing vim using `winget` and the packages ID
-    - winget install --id vim.vim 
+- Installing vim using `winget` using the package Id
+    - `winget install --id vim.vim` 
 
 <br>
 
