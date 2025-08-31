@@ -14,13 +14,14 @@
     <li>
         <a href="#THM-Toolbox-Vim">THM Toolbox: Vim</a>
         <ul>
-            <li><a href="#task-1">Task 1</a></li>
-            <li><a href="#task-2">Task 2</a></li>
-            <li><a href="#task-2">Task 3</a></li>
-            <li><a href="#task-3">Task 4</a></li>
-            <li><a href="#task-4">Task 5</a></li>
+            <li><a href="#task-1-getting-started">Task 1 &mdash; Getting Started</a></li>
+            <li><a href="#task-2">Task 2 &mdash;</a></li>
+            <li><a href="#task-2">Task 3 &mdash;</a></li>
+            <li><a href="#task-3">Task 4 &mdash;</a></li>
+            <li><a href="#task-4">Task 5 &mdash;</a></li>
         </ul>
     </li>
+    <br>
     <li>
         <a href="#vimtutor-summaries">Vimtutor Summaries</a>
         <ul>
@@ -32,7 +33,7 @@
 
 ### THM Toolbox: Vim
 
-#### **Task 1**
+#### **Task 1** &mdash; Getting Started
 #### Checking if Vim is installed within **Linux**
 To see whether Vim is installed on your Linux Env, you can type `which vim` in your terminal and if its installed it will show you the directory of where its located on your system. 
 
