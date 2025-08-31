@@ -8,7 +8,7 @@
     </p>
 </div>
 
-<hr>
+<br>
 <br>
 
 ### Table of Contents
@@ -28,7 +28,7 @@
 </ul>
 
 <br>
-<hr>
+<br>
 
 ### THM Toolbox: Vim
 
