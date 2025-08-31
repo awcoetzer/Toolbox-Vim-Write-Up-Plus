@@ -8,6 +8,7 @@
     </p>
 </div>
 
+<hr>
 <br>
 
 ### Table of Contents
